@@ -29,3 +29,8 @@ $ ionic g page pizza
 ```
 
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+
+## Links
+
+* https://angularjs.de/artikel/ionic2-tutorial-deutsch/
+* https://scotch.io/tutorials/build-a-mobile-app-with-angular-2-and-ionic-2
